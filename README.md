@@ -1,0 +1,2 @@
+# ExcelDataAnalyzerAvlTree
+ Student Data Query is a Java project designed to manage and query student data using an AVL tree data structure. The program reads student information from an Excel (.xlsx) file, inserts it into the AVL tree, and provides functionalities to view data, analyze the tree structure, search for students, and calculate the average of overall grades. Built with Java and Apache POI, this project is suitable for anyone working with student data who wants an efficient and organized way to query and analyze information.
